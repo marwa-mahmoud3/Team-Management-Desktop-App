@@ -1,0 +1,122 @@
+D:\My projects\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe.config
+D:\My projects\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe
+D:\My projects\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.pdb
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Properties.Resources.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.CoreCompileInputs.cache
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.LogIn.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe.config
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.pdb
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Login.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Properties.Resources.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+C:\Users\Microsoft\Downloads\Team Managment(1)\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.ViewTasks.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckedTask.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckEssentialTask.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe.config
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.pdb
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckedTask.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckEssentialTask.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Login.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Properties.Resources.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+C:\Users\dell\Desktop\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.archive.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe.config
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.pdb
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.archive.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckedTask.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckEssentialTask.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Login.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+C:\Users\Microsoft\Desktop\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe.config
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.exe
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\bin\Debug\Team Mangement.pdb
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.archive.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckedTask.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckEssentialTask.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Login.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Properties.Resources.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.CoreCompileInputs.cache
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+C:\Users\Marwa\Downloads\Team Managment(1)\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.archive.resources
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.ArchivedDelete.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csprojAssemblyReference.cache
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.archive.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.ArchivedDelete.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckedTask.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CheckEssentialTask.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.CreateTask.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Home_Page.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Create_Team.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Team_Member.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.InviteTeamMember.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Login.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Register.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Subtask.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.Task.resources
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.csproj.GenerateResource.cache
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.exe
+D:\My projects\Team Managment\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team Mangement.pdb
+D:\My projects\Team Managment\Team Mangement\Team Mangement\obj\Debug\Team_Mangement.ArchieveAndDelete.resources
