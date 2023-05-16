@@ -1,4 +1,7 @@
-# Desktop-Application-For-Team-Management
+# Team Managment Desktop Application 
+This is a project in the period ITI scholarship
+Technologies used:C#,.Net,WinForms
+
 ![1](https://user-images.githubusercontent.com/58340861/123692767-82043400-d857-11eb-991f-9aef0f7bfa02.PNG)
 ![2](https://user-images.githubusercontent.com/58340861/123692791-8892ab80-d857-11eb-8a69-ba678d55d82b.PNG)
 ![3](https://user-images.githubusercontent.com/58340861/123692805-8c263280-d857-11eb-92d9-1a5bb4d2556e.PNG)
